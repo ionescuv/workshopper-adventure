@@ -1,4 +1,4 @@
  - To print these instructions again, run: `{appname} print`
- - To execute your program in a test environment, run: `{appname} run program.js`
- - To verify your program, run: `{appname} verify program.js`
+ - To execute your program in a test environment, run: `{appname} run`
+ - To verify your program, run: `{appname} verify`
  - For help run: `{appname} help`

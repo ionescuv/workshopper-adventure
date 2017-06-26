@@ -36,8 +36,8 @@ __`{appname} next`__ ................ Print the instructions for the next incomp
 
 __`{appname} reset`__ ............... Reset completed workshop progress.
 
-__`{appname} run program.js`__ ...... Run your program against the selected input.
+__`{appname} run`__ ...... Run your program against the selected input.
 
-__`{appname} verify program.js`__ ... Verify your program against the expected output.
+__`{appname} verify`__ ... Verify your program against the expected output.
 
 __`{appname} -l <language>`__ ....... Change the system to the specified language.
