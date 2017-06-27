@@ -1,4 +1,3 @@
  - To print these instructions again, run: `{appname} print`
- - To execute your program in a test environment, run: `{appname} run`
- - To verify your program, run: `{appname} verify`
+ - To complete an exercise and print the solution, run: `{appname} verify`
  - For help run: `{appname} help`
